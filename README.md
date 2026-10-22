@@ -14,3 +14,5 @@ This experiment demonstrates the fork-and-pull request workflow.
 
 \- Modified the README file.
 
+The README update was reviewed as part of the pull request workflow.
+
