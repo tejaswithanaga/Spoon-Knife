@@ -16,5 +16,5 @@ This experiment demonstrates the fork-and-pull request workflow.
 
 The README update was reviewed as part of the pull request workflow.
 
-Experiment 15 conflict demo: Initial version.
+Experiment 15 conflict demo: Feature branch version.
 
